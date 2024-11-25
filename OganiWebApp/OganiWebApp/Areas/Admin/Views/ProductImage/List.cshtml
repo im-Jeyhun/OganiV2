@@ -1,0 +1,46 @@
+﻿@using OganiWebApp.Areas.Admin.ViewModels.Product
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model ProductImageListItemViewModel
+<div class="col-lg-10 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">productImage Area</h4>
+            <a asp-route="admin-product-image-add" asp-route-productId="@Model.ProductId">Add productImage</a>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                Title
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var productImage in Model.ProductImages)
+                        {
+                            <tr>
+                                <td class="py-1">
+                                    <img src="~/@productImage.ImageUrl" alt="image" />
+                                </td>
+
+                                <td class="text-end">
+                                    <a asp-route="admin-product-image-update" asp-route-productId="@Model.ProductId" asp-route-productImageId="@productImage.ProductImageId">Edit </a>
+                                    <form method="POST" asp-route="admin-product-image-delete" asp-route-productId="@Model.ProductId" asp-route-productImageId="@productImage.ProductImageId" id="product-image-form-@productImage.ProductImageId"></form>
+                                    <button type="submit" form="product-image-form-@productImage.ProductImageId">
+                                        Delete
+                                    </button>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

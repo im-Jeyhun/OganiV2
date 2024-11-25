@@ -1,0 +1,21 @@
+﻿@using OganiWebApp.Areas.Admin.ViewModels.Size
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model AddViewModel
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Size</h4>
+            <p class="card-description">
+                Add size
+            </p>
+            <form class="forms-sample" method="post" asp-route="admin-size-add" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Title" for="exampleInputUsername1">Title</label>
+                    <input asp-for="Title" type="text" class="form-control" id="exampleInputUsername1" placeholder="Title">
+                </div>
+              
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

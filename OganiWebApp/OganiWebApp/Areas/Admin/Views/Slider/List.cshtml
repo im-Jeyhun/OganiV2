@@ -1,0 +1,50 @@
+﻿@using OganiWebApp.Areas.Admin.ViewModels.Slider
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<ListItemViewModel>
+<div class="col-lg-10 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Slider Area</h4>
+            <a asp-route="admin-slider-add">Add Slider</a>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                Title
+                            </th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var slider in Model)
+                        {
+                            <tr>
+                                <td class="py-1">
+                                    <img src="~/@slider.BgImageUrl" alt="image" />
+                                </td>
+                                <td>
+                                    @slider.Title
+                                </td>
+                               
+                                <td class="text-end">
+                                    <a asp-route="admin-slider-update" asp-route-id="@slider.Id">Edit</a>
+                                    <form method="POST" asp-route="admin-slider-delete" asp-route-id="@slider.Id" id="slider-form-@slider.Id"></form>
+                                    <button type="submit" form="slider-form-@slider.Id">
+                                        Delete
+                                    </button>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

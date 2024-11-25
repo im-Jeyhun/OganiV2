@@ -1,0 +1,61 @@
+﻿@using OganiWebApp.Areas.Admin.ViewModels.Product
+@using OganiWebApp.Database.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model AddViewModel
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Product</h4>
+            <p class="card-description">
+                Add Product
+            </p>
+            <form class="forms-sample" method="post" asp-route="admin-product-add" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Name" for="exampleInputUsername1">Name</label>
+                    <input asp-for="Name" type="text" class="form-control" id="exampleInputUsername1" placeholder="Name">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" for="exampleInputUsername1">Price</label>
+                    <input asp-for="Price" class="form-control" id="exampleInputUsername1" placeholder="Price">
+                </div>
+                <div class="form-group">
+                    <label asp-for="DiscountPrice" for="exampleInputUsername1">Discount Price</label>
+                    <input asp-for="DiscountPrice" class="form-control" id="exampleInputUsername1" placeholder="Discount Price">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description" for="exampleInputUsername1">Description</label>
+                    <input asp-for="Description" type="text" class="form-control" id="exampleInputUsername1" placeholder="Description">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Shipping" for="exampleInputUsername1">Shipping</label>
+                    <input asp-for="Shipping" type="text" class="form-control" id="exampleInputUsername1" placeholder="Shipping">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Weight" for="exampleInputUsername1">Weight </label>
+                    <input asp-for="Weight" class="form-control" id="exampleInputUsername1" placeholder="Weight">
+                </div>
+
+                <div class="form-group">
+                    <label>Categories</label>
+                    <select asp-for="PorductCategoryId" asp-items="@(new SelectList(Model.ProductCategories , nameof(ProductCategory.Id), nameof(ProductCategory.Title)))" class="form-select get-subcategories">                            </select>
+                    <span asp-validation-for="PorductCategoryId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label>Sizes</label>
+                    <select asp-for="SizeIds" asp-items="@(new SelectList(Model.ProductSizes , nameof(Size.Id), nameof(Size.Title)))" class="form-select get-subcategories">                            </select>
+                    <span asp-validation-for="SizeIds" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Main Image</label>
+                    <input asp-for="MainImage" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                </div>
+                <div class="form-group">
+                    <label>Product Images</label>
+                    <input multiple asp-for="Images" class="form-control">
+                    <span asp-validation-for="Images" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

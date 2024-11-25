@@ -1,0 +1,44 @@
+﻿@using OganiWebApp.Areas.Admin.ViewModels.BlogCategory
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<ListItemViewModel>
+<div class="col-lg-10 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Blog Category Area</h4>
+            <a asp-route="admin-blog-category-add">Add Blog Category</a>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Title
+                            </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var blogCategory in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @blogCategory.Title
+                                </td>
+
+                                <td class="text-end">
+                                    <a asp-route="admin-product-category-update" asp-route-id="@blogCategory.Id">Edit</a>
+                                    <form method="POST" asp-route="admin-blogCategory-delete" asp-route-id="@blogCategory.Id" id="blogCategory-form-@blogCategory.Id"></form>
+                                    <button type="submit" form="blogCategory-form-@blogCategory.Id">
+                                        Delete
+                                    </button>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,37 @@
+﻿@using OganiWebApp.Areas.Admin.ViewModels.Blog
+@using OganiWebApp.Database.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model AddViewModel
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Blog</h4>
+            <p class="card-description">
+                Add Blog
+            </p>
+            <form class="forms-sample" method="post" asp-route="admin-blog-add" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label asp-for="Title" for="exampleInputUsername1">Title</label>
+                    <input asp-for="Title" type="text" class="form-control" id="exampleInputUsername1" placeholder="Title">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Content" for="exampleInputUsername1">Content</label>
+                    <input asp-for="Content" class="form-control" id="exampleInputUsername1" placeholder="Content">
+                </div>
+               
+                <div class="form-group">
+                    <label>Categories</label>
+                    <select asp-for="BlogCategoryId" asp-items="@(new SelectList(Model.BlogCategories , nameof(BlogCategory.Id), nameof(BlogCategory.Title)))" class="form-select get-subcategories">                            </select>
+                    <span asp-validation-for="BlogCategoryId" class="text-danger"></span>
+                </div>
+              
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Main Image</label>
+                    <input asp-for="Image" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                </div>
+              
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

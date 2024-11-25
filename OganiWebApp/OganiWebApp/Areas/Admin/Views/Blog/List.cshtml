@@ -1,0 +1,49 @@
+﻿@using OganiWebApp.Areas.Admin.ViewModels.Blog
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model List<ListItemViewModel>
+<div class="col-lg-10 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Blog Area</h4>
+            <a asp-route="admin-blog-add">Add Blog</a>
+
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                Title
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var blog in Model)
+                        {
+                            <tr>
+                                <td class="py-1">
+                                    <img src="~/@blog.ImageUrl" alt="image" />
+                                </td>
+                                <td>
+                                    @blog.Title
+                                </td>
+
+                                <td class="text-end">
+                                    <a asp-route="admin-blog-update" asp-route-id="@blog.Id">Edit </a>
+                                    <form method="POST" asp-route="admin-blog-delete" asp-route-id="@blog.Id" id="blog-form-@blog.Id"></form>
+                                    <button type="submit" form="blog-form-@blog.Id">
+                                        Delete
+                                    </button>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

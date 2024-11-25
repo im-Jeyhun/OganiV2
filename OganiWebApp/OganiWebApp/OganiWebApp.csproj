@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\ViewComponents\" />
+    <Folder Include="wwwroot\client\assests\img\products\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\admin\assests\documentation\.DS_Store" />
+    <None Include="wwwroot\admin\assests\fonts\.DS_Store" />
+    <None Include="wwwroot\admin\assests\fonts\Roboto\.DS_Store" />
+    <None Include="wwwroot\admin\assests\images\.DS_Store" />
+    <None Include="wwwroot\admin\assests\images\auth\.DS_Store" />
+    <None Include="wwwroot\admin\assests\images\faces\.DS_Store" />
+    <None Include="wwwroot\admin\assests\js\.DS_Store" />
+    <None Include="wwwroot\admin\assests\scss\.DS_Store" />
+    <None Include="wwwroot\admin\assests\scss\components\.DS_Store" />
+    <None Include="wwwroot\admin\assests\scss\mixins\.DS_Store" />
+    <None Include="wwwroot\admin\assests\vendors\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Core" Version="1.6.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

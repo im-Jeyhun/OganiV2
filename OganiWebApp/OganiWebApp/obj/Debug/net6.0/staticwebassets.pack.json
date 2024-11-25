@@ -1,0 +1,1045 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\assests\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assests\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\admin\\assests\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\assests\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assests\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\assests\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\assests\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\admin\\assests\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\assests\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\assests\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\admin\\assests\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\assests\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\client\\assests\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\client\\assests\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\client\\assests\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\client\\assests\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\client\\assests\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\Source\\jquery-ui-1.12.1.zip",
+      "PackagePath": "staticwebassets\\client\\assests\\Source\\jquery-ui-1.12.1.zip"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\client\\assests\\Source\\sass.zip"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\client\\assests\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\client\\assests\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\client\\assests\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\client\\assests\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\client\\assests\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\client\\assests\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\client\\assests\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\css\\style.css",
+      "PackagePath": "staticwebassets\\client\\assests\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\client\\assests\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blogs\\5b9c22af-2919-4297-9b0e-d8365eebf375.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blogs\\5b9c22af-2919-4297-9b0e-d8365eebf375.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\blogs\\cd4ce362-539b-451a-8618-67fe85a4cc1f.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\blogs\\cd4ce362-539b-451a-8618-67fe85a4cc1f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\language.png",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\logo.png",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\payment-item.png"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\33f503e6-5c75-413a-b63b-d29c0799f41c.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\33f503e6-5c75-413a-b63b-d29c0799f41c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\4bb8ce3a-2fae-4a84-a830-d6f21002c6c2.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\4bb8ce3a-2fae-4a84-a830-d6f21002c6c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\4ecd549a-fa9c-4b44-9686-6c16a76d1d00.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\4ecd549a-fa9c-4b44-9686-6c16a76d1d00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\612654b9-544a-4bf8-9f5e-d7af2b6fd79c.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\612654b9-544a-4bf8-9f5e-d7af2b6fd79c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\68509318-80a7-4abf-90ce-0ada6e5dfc4f.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\68509318-80a7-4abf-90ce-0ada6e5dfc4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\6a95c015-294f-4324-8455-8f6ece545576.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\6a95c015-294f-4324-8455-8f6ece545576.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\7f086f2e-57d9-4600-9e56-cacdf791e97f.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\7f086f2e-57d9-4600-9e56-cacdf791e97f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\833fb885-bbf5-4fd9-a3fc-876106836fd7.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\833fb885-bbf5-4fd9-a3fc-876106836fd7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\8cce88f1-769f-492d-82c3-c74f94d10e95.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\8cce88f1-769f-492d-82c3-c74f94d10e95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\9d1421d2-76d3-482a-9810-26992a10ff11.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\9d1421d2-76d3-482a-9810-26992a10ff11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\a0c524a2-ca35-46d7-bdab-6ff83d2edbbc.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\a0c524a2-ca35-46d7-bdab-6ff83d2edbbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\c5c2dc1d-60bb-4004-ab32-7444487cfb2c.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\c5c2dc1d-60bb-4004-ab32-7444487cfb2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\d23e48ae-1f42-4c26-8ebb-1c372acc2a7e.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\d23e48ae-1f42-4c26-8ebb-1c372acc2a7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\ddc02ecc-652a-44e8-8074-d707df23e015.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\ddc02ecc-652a-44e8-8074-d707df23e015.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\dfa50892-24ef-4f7c-8239-e5cdc5fee010.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\dfa50892-24ef-4f7c-8239-e5cdc5fee010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\products\\f6d9f5c6-a764-47c7-acd9-d49c575b3ce0.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\products\\f6d9f5c6-a764-47c7-acd9-d49c575b3ce0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\sliders\\625cee7c-cf73-46a7-bc62-c8a344e12232.jpg",
+      "PackagePath": "staticwebassets\\client\\assests\\img\\sliders\\625cee7c-cf73-46a7-bc62-c8a344e12232.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\client\\assests\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\client\\assests\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\client\\assests\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\client\\assests\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\client\\assests\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\js\\main.js",
+      "PackagePath": "staticwebassets\\client\\assests\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\client\\assests\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\client\\assests\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_shop-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_shop-grid.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_shop-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_shoping-cart.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_shoping-cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\client\\assests\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OganiWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OganiWebApp.props",
+      "PackagePath": "build\\OganiWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OganiWebApp.props",
+      "PackagePath": "buildMultiTargeting\\OganiWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OganiWebApp.props",
+      "PackagePath": "buildTransitive\\OganiWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

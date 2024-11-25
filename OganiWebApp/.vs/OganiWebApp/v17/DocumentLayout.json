@@ -1,0 +1,790 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\admin\\controllers\\blogcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\admin\\controllers\\blogcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\shared\\components\\feuturedproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\shared\\components\\feuturedproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\checkout\\checkoutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\checkout\\checkoutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewmodels\\productlistitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewmodels\\productlistitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\admin\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\admin\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\cart\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\cart\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\blog\\item.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\blog\\item.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\shop\\item.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\shop\\item.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewcomponents\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewcomponents\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewcomponents\\feuturedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewcomponents\\feuturedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\admin\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewmodels\\blogitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewmodels\\blogitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewmodels\\blogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewmodels\\blogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewmodels\\bloglistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewmodels\\bloglistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewmodels\\shopviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewmodels\\shopitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewmodels\\shopitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewmodels\\productitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewmodels\\productitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\extensions\\isnullorvalueextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\extensions\\isnullorvalueextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\database\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\database\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\contracts\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\contracts\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\wwwroot\\client\\assests\\img\\sliders\\625cee7c-cf73-46a7-bc62-c8a344e12232.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\wwwroot\\client\\assests\\img\\sliders\\625cee7c-cf73-46a7-bc62-c8a344e12232.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|c:\\users\\jeyhun.hajiyev\\source\\repos\\oganiwebapp\\oganiwebapp\\areas\\client\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF255BA8-0B02-4271-B7B1-3D1B683718A9}|OganiWebApp\\OganiWebApp.csproj|solutionrelative:oganiwebapp\\areas\\client\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAMwCoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:51:40.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Services\\UserService.cs",
+              "RelativeToolTip": "OganiWebApp\\Services\\UserService.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAjwGUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:22:56.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAnwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:58:10.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:08:12.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAArwD0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:06:26.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIAwwDQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T13:51:04.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T22:11:40.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T21:48:23.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:36:28.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAArwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:14:39.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shared\\Components\\FeuturedProduct\\Default.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Shared\\Components\\FeuturedProduct\\Default.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shared\\Components\\FeuturedProduct\\Default.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Shared\\Components\\FeuturedProduct\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T13:07:36.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Checkoutlist.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Checkout\\Checkoutlist.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Checkout\\Checkoutlist.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Checkout\\Checkoutlist.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Checkout\\Checkoutlist.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T15:43:41.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductListItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\ProductListItemViewModel.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewModels\\ProductListItemViewModel.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\ProductListItemViewModel.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewModels\\ProductListItemViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:19:21.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:36:28.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Program.cs",
+              "RelativeToolTip": "OganiWebApp\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:55:38.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:17:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:07:04.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\CartController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:13:29.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Cart\\List.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Cart\\List.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Cart\\List.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Cart\\List.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T15:45:34.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:58:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Item.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Blog\\Item.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Blog\\Item.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Blog\\Item.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Blog\\Item.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T16:25:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAvwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:05:26.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAApwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:17:33.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Header.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewComponents\\Header.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewComponents\\Header.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewComponents\\Header.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewComponents\\Header.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:49:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Item.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shop\\Item.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Shop\\Item.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Shop\\Item.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Shop\\Item.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAE0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T16:25:35.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFwAAAAAAAAAAAArwGMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:03:30.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Authentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Authentication\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Authentication\\Login.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Authentication\\Login.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAWwDIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T21:22:10.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FeuturedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewComponents\\FeuturedProduct.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewComponents\\FeuturedProduct.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewComponents\\FeuturedProduct.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewComponents\\FeuturedProduct.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:08:32.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Authentication\\Register.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Authentication\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Authentication\\Register.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Authentication\\Register.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T21:22:05.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Admin\\Controllers\\ProductImageController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA8wBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:05:26.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T13:51:13.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BlogListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\BlogListViewModel.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewModels\\BlogListViewModel.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\BlogListViewModel.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewModels\\BlogListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:52:11.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BlogItemVIewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\BlogItemVIewModel.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewModels\\BlogItemVIewModel.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\BlogItemVIewModel.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewModels\\BlogItemVIewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:24:26.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BlogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\BlogViewModel.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewModels\\BlogViewModel.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\BlogViewModel.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewModels\\BlogViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:06:14.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShopViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\ShopViewModel.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewModels\\ShopViewModel.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\ShopViewModel.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewModels\\ShopViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAWwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:56:36.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\ProductItemViewModel.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewModels\\ProductItemViewModel.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\ProductItemViewModel.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewModels\\ProductItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:04:03.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T22:21:56.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShopItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\ShopItemViewModel.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewModels\\ShopItemViewModel.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\ShopItemViewModel.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewModels\\ShopItemViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAD4vxMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:38:53.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:16:54.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Database\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Database\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Database\\Models\\Order.cs",
+              "RelativeToolTip": "OganiWebApp\\Database\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:22:32.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IsNullOrValueExtension.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Extensions\\IsNullOrValueExtension.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Extensions\\IsNullOrValueExtension.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Extensions\\IsNullOrValueExtension.cs",
+              "RelativeToolTip": "OganiWebApp\\Extensions\\IsNullOrValueExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:19:00.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Database\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Database\\Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Database\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "OganiWebApp\\Database\\Models\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:24:49.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Contracts\\Status.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Contracts\\Status.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Contracts\\Status.cs",
+              "RelativeToolTip": "OganiWebApp\\Contracts\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:23:26.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Services\\FileService.cs",
+              "RelativeToolTip": "OganiWebApp\\Services\\FileService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwFAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:02:12.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "625cee7c-cf73-46a7-bc62-c8a344e12232.jpg - Bitmap [270x270, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\sliders\\625cee7c-cf73-46a7-bc62-c8a344e12232.jpg",
+              "RelativeDocumentMoniker": "OganiWebApp\\wwwroot\\client\\assests\\img\\sliders\\625cee7c-cf73-46a7-bc62-c8a344e12232.jpg",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\wwwroot\\client\\assests\\img\\sliders\\625cee7c-cf73-46a7-bc62-c8a344e12232.jpg - Bitmap [270x270, 24 bit, JPG]",
+              "RelativeToolTip": "OganiWebApp\\wwwroot\\client\\assests\\img\\sliders\\625cee7c-cf73-46a7-bc62-c8a344e12232.jpg - Bitmap [270x270, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-17T13:03:26.258Z",
+              "EditorCaption": " - Bitmap [270x270, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "OganiWebApp\\Areas\\Client\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\jeyhun.hajiyev\\source\\repos\\OganiWebApp\\OganiWebApp\\Areas\\Client\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "OganiWebApp\\Areas\\Client\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:34:23.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
